@@ -3,7 +3,7 @@ just a dude doing random things with code for fun
 
 ### =========================================================
 
-Coding Languages:
+Languages:
 
 AutoHotkey
 
