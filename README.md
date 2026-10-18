@@ -1,9 +1,10 @@
 ### Code(?) Archive
-
 just a dude doing random things with code for fun
 
 Coding Languages:
+
 AutoHotkey
+
 Python (Learning)
 
 [YouTube: AkaruiDaikiHoshi](https://www.youtube.com/@AkaruiDaikiHoshi)
