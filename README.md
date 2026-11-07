@@ -1,5 +1,5 @@
 <h1 align="center">Code(?) Archive</h1>
-<h1 align="center">just a dude doing random things with code for fun</h1>
+<h4 align="center">just a dude doing random things with code for fun</h4>
 
 ---------------------------------------------------------
 
